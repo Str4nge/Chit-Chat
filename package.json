@@ -1,0 +1,16 @@
+{
+  "name": "chat.io",
+  "version": "1.0.0",
+  "description": "Simple Chat Webapp using node.js and Mongodb",
+  "main": "Engine.js",
+  "scripts": {
+    "start": "node engine.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "",
+    "nodemon": "^1.19.1",
+    "socket.io": "^2.2.0"
+  }
+}
